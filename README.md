@@ -1,7 +1,7 @@
 ### Heyyyy 👋, my name is Bruno Lopes
 
-##### I am Full-stack and Mobile Deloper
-###### I am a Full-stack student at Digital House, Brazil and Mobile Developer at Bootcamp Santander.
+##### I am Full-stack student
+###### I am a Full-stack student at <a href="https://thiago-medeiros.com/" target="_blank">Thiago Medeiros</a>, Brazil.
 ###### Always trying to improve, currently looking for an opportunity to grow as a professional.
 
 ### Languages and Tools:
