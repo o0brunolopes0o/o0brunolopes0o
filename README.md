@@ -35,13 +35,13 @@
 - ⚡ Database
 
 <div id="badges">
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql Badge"/>
   </a>
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb Badge"/>
   </a>
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite Badge"/>
   </a>
 </div>
@@ -49,37 +49,37 @@
 
  - 🚀 Frameworks & Library
 <div id="badges">
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django Badge"/>
   </a>
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express Badge"/>
   </a>
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git Badge"/>
   </a>
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>  
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="gulp Badge"/>
   </a>  
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap Badge"/>
   </a> 
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass Badge"/>
   </a> 
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="insomnia Badge"/>
   </a> 
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs Badge"/>
   </a> 
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node Badge"/>
   </a> 
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react Badge"/>
   </a> 
 </div>
