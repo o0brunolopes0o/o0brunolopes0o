@@ -56,7 +56,7 @@
 
 ### Currently:
 
-- Currently learning about .
+- Currently learning about NodeJS / React.
 
 ### My social medias:
   
