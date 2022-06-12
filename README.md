@@ -2,7 +2,7 @@
 
 ##### I am Full-stack student
 ###### I am a Full-stack student at <a href="https://thiago-medeiros.com/" target="_blank">Thiago Medeiros</a>, Brazil.
-###### Always trying to improve, currently looking for an opportunity to grow as a professional.
+###### Always trying to improve, currently looking for an opportunity to enter this professional area.
 
 ### Languages and Tools:
 
