@@ -9,25 +9,25 @@
 - 👩‍💻 Languages 
 
 <div id="badges">
-    <a href="https://github.com/isocap">
+    <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS Badge"/>
   </a>
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
   </a>
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
   </a>
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
   </a>
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON Badge"/>
   </a>  
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python Badge"/>
   </a>
-  <a href="https://github.com/isocabp">
+  <a href="https://github.com/o0brunolopes0o">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS Badge"/>
   </a>
 </div>
