@@ -80,7 +80,7 @@
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=isocabp&theme=radical"/>  
  </div>
   
-<img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
+<img src="https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif"/>
 
   
 ![Snake animation](https://github.com/isocabp/isocabp/blob/output/github-contribution-grid-snake.svg)
