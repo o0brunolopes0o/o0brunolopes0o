@@ -69,18 +69,5 @@
  
 ##
 
- <div align="center">
- <a href="https://github.com/o0brunolopes0o">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o0brunolopes0o&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=o0brunolopes0o&theme=dark)](https://git.io/streak-stats"/>
-  </div>
-  
- <div align="center">
- <a href="https://github.com/o0brunolopes0o">
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=isocabp&theme=radical"/>  
- </div>
-  
-<img src="https://www.workifit.com/static/9725f43386f85c2923a8bf1c073244b2/programando.gif"/>
-
   
 ![Snake animation](https://github.com/isocabp/isocabp/blob/output/github-contribution-grid-snake.svg)
