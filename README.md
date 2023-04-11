@@ -5,7 +5,7 @@
 
 Heyyyy 👋, my name is Bruno Lopes</br>
 I am Full Stack Developer</br> 
-Always trying to improve, currently looking for an opportunity to enter this professional area.</br>
+Always trying to improve</br>
 </br>
 <div id="website">
 - 💻 Website:</br>
