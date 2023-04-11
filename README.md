@@ -1,6 +1,6 @@
 <div align="center">
 Heyyyy 👋, my name is Bruno Lopes</br>
-I am Full-stack</br> 
+I am Full Stack Developer</br> 
 Always trying to improve, currently looking for an opportunity to enter this professional area.</br>
 </br>
 <div id="website">
