@@ -1,8 +1,8 @@
-        <div id="apresentation">
+
             Heyyyy 👋, my name is Bruno Lopes 
             I am Full-stack 
             Always trying to improve, currently looking for an opportunity to enter this professional area.
-        </div></br>
+
         
 
         - 🌐 Website:
