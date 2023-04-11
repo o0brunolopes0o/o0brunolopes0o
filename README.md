@@ -1,4 +1,4 @@
-Heyyyy 👋, my name is Bruno Lopes 
+Heyyyy 👋, my name is Bruno Lopes</br>
 I am Full-stack 
 Always trying to improve, currently looking for an opportunity to enter this professional area.
 
