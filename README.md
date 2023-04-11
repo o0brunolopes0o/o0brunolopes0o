@@ -1,4 +1,8 @@
 <div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=229ea3&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=blue&center=true&width=1000&lines=Olá,+eu+sou+Bruno+Lopes%2C;+Bem+Vindo(a)!)](https://git.io/typing-svg)
+
 Heyyyy 👋, my name is Bruno Lopes</br>
 I am Full Stack Developer</br> 
 Always trying to improve, currently looking for an opportunity to enter this professional area.</br>
@@ -78,4 +82,6 @@ Always trying to improve, currently looking for an opportunity to enter this pro
 
   
 ![Snake animation](https://github.com/isocabp/isocabp/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=229ea3&height=120&section=footer"/>
 </div>
