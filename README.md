@@ -69,5 +69,20 @@
             <a href="https://wa.me/5519993778967" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
         </div></br>
 
+<<<<<<< HEAD
+=======
+ <div align="center">
+ <a href="https://github.com/o0brunolopes0o">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o0brunolopes0o&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0brunolopes0o&layout=compact&langs_count=7&theme=radical"/>
+  </div>
+  
+ <div align="center">
+ <a href="https://github.com/o0brunolopes0o">
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=isocabp&theme=radical"/>  
+ </div>
+  
+<img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
+>>>>>>> parent of b6067e4 (Update README.md)
 
         ![Snake animation](https://github.com/isocabp/isocabp/blob/output/github-contribution-grid-snake.svg)
