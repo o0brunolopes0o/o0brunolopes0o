@@ -57,11 +57,6 @@ Always trying to improve</br>
             <a href="https://github.com/o0brunolopes0o">
                 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vuejs Badge"/>
             </a>
-
-            <a href="https://github.com/o0brunolopes0o">
-                <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nest Badge"/>
-            </a>
-
 </div></br>
 
  <div id="contact">
