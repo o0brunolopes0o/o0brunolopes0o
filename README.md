@@ -68,7 +68,10 @@ Always trying to improve</br>
             <a href="https://instagram.com/bruno.steffen87/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/isocabp/isocabp/blob/output/github-contribution-grid-snake.svg)
+<div> 
+
+  ![Snake animation](https://github.com/queila-souto/queila-souto/blob/output/github-contribution-grid-snake.svg)
+ <div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=229ea3&height=120&section=footer"/>
 </div>
