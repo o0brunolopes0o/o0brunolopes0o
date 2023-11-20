@@ -1,17 +1,17 @@
 <div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=229ea3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=blue&center=true&width=1000&lines=Olá,+eu+sou+Bruno+Lopes%2C;+Bem+Vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=blue&center=true&width=1000&lines=Olá,+eu+sou+Bruno+Lopes%2C;+Bem+Vindo(a)!>)](https://git.io/typing-svg)
 
 Heyyyy 👋, my name is Bruno Lopes</br>
-I am Full Stack Developer</br> 
+I am Full Stack Developer</br>
 Always trying to improve</br>
 </br>
+
 <div id="website">
 - 💻 Website:</br>
 <a href="https://o0brunolopes0o.github.io/arvoresdelinks.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div></br>
-
 
 <div id="badges">
 - 👩‍💻 Languages: </br>
@@ -32,7 +32,6 @@ Always trying to improve</br>
             </a>
 </div></br>
 
-
 <div id="badges">
     - ⚡ Database: </br>
             <a href="https://github.com/o0brunolopes0o">
@@ -40,8 +39,6 @@ Always trying to improve</br>
                 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
             </a>
 </div></br>
-
-
 
 <div id="badges">
      - 🚀 Frameworks & Library: </br>
@@ -60,14 +57,12 @@ Always trying to improve</br>
             <a href="https://github.com/o0brunolopes0o">
                 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vuejs Badge"/>
             </a>
+
             <a href="https://github.com/o0brunolopes0o">
-                <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react Badge"/>
-            </a>
-                        <a href="https://github.com/o0brunolopes0o">
                 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nest Badge"/>
             </a>
-</div></br>
 
+</div></br>
 
  <div id="contact">
          - 📺 Contact: </br>
@@ -76,11 +71,8 @@ Always trying to improve</br>
             <a href="https://www.linkedin.com/in/bruno-lopes-45aa3b170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
             <a href="https://wa.me/5519993778967" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
             <a href="https://instagram.com/bruno.steffen87/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
-</div> 
+</div>
 
-
-
-  
 ![Snake animation](https://github.com/isocabp/isocabp/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=229ea3&height=120&section=footer"/>
