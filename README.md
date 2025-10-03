@@ -24,11 +24,14 @@ Always trying to improve</br>
             <a href="https://github.com/o0brunolopes0o">
                 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS Badge"/>
             </a>
-                        <a href="https://github.com/o0brunolopes0o">
+            <a href="https://github.com/o0brunolopes0o">
                 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python Badge"/>
             </a>
             <a href="https://github.com/o0brunolopes0o">
                 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript Badge"/>
+            </a>
+            <a href="https://github.com/o0brunolopes0o">
+                <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java Badge"/>
             </a>
 </div></br>
 
@@ -56,6 +59,9 @@ Always trying to improve</br>
             </a>
             <a href="https://github.com/o0brunolopes0o">
                 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vuejs Badge"/>
+            </a>
+            <a href="https://github.com/o0brunolopes0o">
+                <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="springboot Badge"/>
             </a>
 </div></br>
 
